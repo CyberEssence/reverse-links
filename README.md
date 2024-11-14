@@ -1,6 +1,6 @@
-## New school reverse engineering 
+# New school reverse engineering 
 
-# Demoscene guidelines
+## Demoscene guidelines
 
 Finding OEP:
 https://rce.su/tutors/vcoep.html
