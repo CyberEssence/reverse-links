@@ -1,5 +1,6 @@
-# reverse-links
-Repo for newschool demoscene guidelines
+## New school reverse engineering 
+
+# Demoscene guidelines
 
 Finding OEP:
 https://rce.su/tutors/vcoep.html
